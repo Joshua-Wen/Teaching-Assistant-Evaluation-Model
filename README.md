@@ -1,5 +1,8 @@
 # Teaching-Assistant-Evaluation-Model
-Created a Decision Tree Model that determines how well a Teaching Assistant performed based on certain features such a:
+
+Demonstrated Ability to clean and format data, feature selection, create visualizations, and employ machine learning techniques.
+
+Created a Decision Tree Model that determines how well a Teaching Assistant performed based on certain features such as:
 
    1. Whether of not the TA is a native English speaker (binary)
       1=English speaker, 2=non-English speaker
