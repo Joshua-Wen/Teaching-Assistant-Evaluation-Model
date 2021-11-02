@@ -1,4 +1,4 @@
-# Teaching-Assistant-Evaluation-Model
+# Teaching Assistant Evaluation Model
 
 Demonstrated Ability to clean and format data, feature selection, create visualizations, and employ machine learning techniques.
 
